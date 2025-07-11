@@ -7,7 +7,7 @@ Hello my name is Jaxson DeHaven and this is my portfolio of all the projects I h
         ##Setup
    - Unzip the file and download the https://github.com/vJaxsonv/gitub-portfolio/blob/main/AirplaneAttendantsDatabase.sql
    - Open the file through Microsoft SQl
-   - create a database called dbFlyMe2theMoon and execute the database
+   - Create a database called dbFlyMe2theMoon and execute the database
 
                 
 <img width="1155" height="718" alt="image" src="https://github.com/user-attachments/assets/a25a6327-f7c0-46e7-92b2-90d58a93c155" />
@@ -42,7 +42,8 @@ Hello my name is Jaxson DeHaven and this is my portfolio of all the projects I h
    - Open the SuperString file and double click SuperString.sln (Mine says Final Project but its the same solution)
     <img width="1433" height="760" alt="image" src="https://github.com/user-attachments/assets/fb293387-90d1-406e-830c-02377fa2b354" />
     <img width="2460" height="1299" alt="image" src="https://github.com/user-attachments/assets/4cfecce0-0ebd-4dff-ac91-ba33f220151b" />
-
+7. XML Student Processor
+   
 
    
 
